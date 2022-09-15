@@ -1,0 +1,14 @@
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.exe
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.deps.json
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.runtimeconfig.json
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.runtimeconfig.dev.json
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.dll
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\bin\Debug\netcoreapp3.1\ConsoleApp_GC.pdb
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.csproj.AssemblyReference.cache
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.AssemblyInfoInputs.cache
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.AssemblyInfo.cs
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.csproj.CoreCompileInputs.cache
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.dll
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.pdb
+C:\Users\fmd6ms\source\repos\ConsoleApp_GC\ConsoleApp_GC\obj\Debug\netcoreapp3.1\ConsoleApp_GC.genruntimeconfig.cache
