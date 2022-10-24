@@ -1,0 +1,13 @@
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Development\Szofttech\CinemaTicketManager\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
