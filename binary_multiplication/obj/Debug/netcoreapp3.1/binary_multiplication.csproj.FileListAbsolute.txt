@@ -1,0 +1,12 @@
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.AssemblyInfoInputs.cache
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.AssemblyInfo.cs
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.csproj.CoreCompileInputs.cache
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.exe
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.deps.json
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.runtimeconfig.json
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.runtimeconfig.dev.json
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.dll
+E:\Development\cshartp\binary_multiplication\binary_multiplication\bin\Debug\netcoreapp3.1\binary_multiplication.pdb
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.dll
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.pdb
+E:\Development\cshartp\binary_multiplication\binary_multiplication\obj\Debug\netcoreapp3.1\binary_multiplication.genruntimeconfig.cache
