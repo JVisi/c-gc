@@ -1,0 +1,12 @@
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.exe
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.deps.json
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.json
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.runtimeconfig.dev.json
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.dll
+E:\Development\cshartp\IEnumerable\IEnumerable\bin\Debug\netcoreapp3.1\IEnumerable.pdb
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfoInputs.cache
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.AssemblyInfo.cs
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.csproj.CoreCompileInputs.cache
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.dll
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.pdb
+E:\Development\cshartp\IEnumerable\IEnumerable\obj\Debug\netcoreapp3.1\IEnumerable.genruntimeconfig.cache
