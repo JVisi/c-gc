@@ -1,0 +1,12 @@
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.exe
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.deps.json
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.json
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.dev.json
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.dll
+E:\Development\cshartp\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.pdb
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfoInputs.cache
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfo.cs
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.csproj.CoreCompileInputs.cache
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.dll
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.pdb
+E:\Development\cshartp\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.genruntimeconfig.cache
