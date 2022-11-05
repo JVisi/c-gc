@@ -1,0 +1,13 @@
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.exe
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.deps.json
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.json
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.dev.json
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.dll
+E:\Development\cshartp\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.pdb
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.csprojAssemblyReference.cache
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfoInputs.cache
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfo.cs
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.csproj.CoreCompileInputs.cache
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.dll
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.pdb
+E:\Development\cshartp\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.genruntimeconfig.cache
