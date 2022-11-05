@@ -1,0 +1,12 @@
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.exe
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.deps.json
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.runtimeconfig.json
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.runtimeconfig.dev.json
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.dll
+E:\Development\cshartp\index_overload\index_overload\bin\Debug\netcoreapp3.1\index_overload.pdb
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.AssemblyInfoInputs.cache
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.AssemblyInfo.cs
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.csproj.CoreCompileInputs.cache
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.dll
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.pdb
+E:\Development\cshartp\index_overload\index_overload\obj\Debug\netcoreapp3.1\index_overload.genruntimeconfig.cache
